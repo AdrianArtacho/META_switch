@@ -1,29 +1,21 @@
-# README #
+This patch is part of the [_META_ Environment](https://bitbucket.org/AdrianArtacho/meta4live/src/master/).
 
-This README would normally document whatever steps are necessary to get your application up and running.
+![META_logo](https://bitbucket.org/AdrianArtacho/meta4live/raw/HEAD/META_logo.png)
 
-### What is this repository for? ###
+# META_switch
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+This README would normally document whatever steps are necessary to get your application up and running. 
 
-### How do I get set up? ###
+![META:timer](./images/gui.png)
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+### 
 
-### Contribution guidelines ###
+### Credits
 
-* Writing tests
-* Code review
-* Other guidelines
+Reference...
 
-### Who do I talk to? ###
+---
 
-* Repo owner or admin
-* Other community or team contact
+# To-Do
+
+- Documentation
