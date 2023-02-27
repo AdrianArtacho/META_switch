@@ -46,7 +46,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 884.833342850208282, 113.600001692771912, 432.800006449222565, 35.0 ],
+					"patching_rect" : [ 884.833342850208282, 113.600001692771912, 433.0, 35.0 ],
 					"text" : ";\rmax launchbrowser https://bitbucket.org/AdrianArtacho/meta_switch/src/master/"
 				}
 
@@ -340,7 +340,7 @@
 					"numoutlets" : 3,
 					"outlettype" : [ "", "", "" ],
 					"patching_rect" : [ 210.333340704441071, 227.333340108394623, 98.0, 22.0 ],
-					"restore" : [ 3.0 ],
+					"restore" : [ 4.0 ],
 					"saved_object_attributes" : 					{
 						"parameter_enable" : 0,
 						"parameter_mappable" : 0
@@ -1127,17 +1127,17 @@
 						"valueof" : 						{
 							"parameter_enum" : [ "val1", "val2" ],
 							"parameter_linknames" : 1,
-							"parameter_longname" : "map1[4]",
+							"parameter_longname" : "map8",
 							"parameter_mmax" : 1,
-							"parameter_shortname" : "map1",
+							"parameter_shortname" : "map8",
 							"parameter_type" : 2
 						}
 
 					}
 ,
 					"text" : "map8",
-					"texton" : "map8",
-					"varname" : "map1[4]"
+					"texton" : "8",
+					"varname" : "map8"
 				}
 
 			}
@@ -1308,17 +1308,17 @@
 						"valueof" : 						{
 							"parameter_enum" : [ "val1", "val2" ],
 							"parameter_linknames" : 1,
-							"parameter_longname" : "map1[5]",
+							"parameter_longname" : "map7",
 							"parameter_mmax" : 1,
-							"parameter_shortname" : "map1",
+							"parameter_shortname" : "map7",
 							"parameter_type" : 2
 						}
 
 					}
 ,
 					"text" : "map7",
-					"texton" : "map7",
-					"varname" : "map1[5]"
+					"texton" : "7",
+					"varname" : "map7"
 				}
 
 			}
@@ -1489,17 +1489,17 @@
 						"valueof" : 						{
 							"parameter_enum" : [ "val1", "val2" ],
 							"parameter_linknames" : 1,
-							"parameter_longname" : "map1[6]",
+							"parameter_longname" : "map6",
 							"parameter_mmax" : 1,
-							"parameter_shortname" : "map1",
+							"parameter_shortname" : "map6",
 							"parameter_type" : 2
 						}
 
 					}
 ,
 					"text" : "map6",
-					"texton" : "map6",
-					"varname" : "map1[6]"
+					"texton" : "6",
+					"varname" : "map6"
 				}
 
 			}
@@ -1670,17 +1670,17 @@
 						"valueof" : 						{
 							"parameter_enum" : [ "val1", "val2" ],
 							"parameter_linknames" : 1,
-							"parameter_longname" : "map1[7]",
+							"parameter_longname" : "map5",
 							"parameter_mmax" : 1,
-							"parameter_shortname" : "map1",
+							"parameter_shortname" : "map5",
 							"parameter_type" : 2
 						}
 
 					}
 ,
 					"text" : "map5",
-					"texton" : "map5",
-					"varname" : "map1[7]"
+					"texton" : "5",
+					"varname" : "map5"
 				}
 
 			}
@@ -1851,17 +1851,17 @@
 						"valueof" : 						{
 							"parameter_enum" : [ "val1", "val2" ],
 							"parameter_linknames" : 1,
-							"parameter_longname" : "map1[2]",
+							"parameter_longname" : "map4",
 							"parameter_mmax" : 1,
-							"parameter_shortname" : "map1",
+							"parameter_shortname" : "map4",
 							"parameter_type" : 2
 						}
 
 					}
 ,
 					"text" : "map4",
-					"texton" : "map4",
-					"varname" : "map1[2]"
+					"texton" : "4",
+					"varname" : "map4"
 				}
 
 			}
@@ -2032,17 +2032,17 @@
 						"valueof" : 						{
 							"parameter_enum" : [ "val1", "val2" ],
 							"parameter_linknames" : 1,
-							"parameter_longname" : "map1[3]",
+							"parameter_longname" : "map3",
 							"parameter_mmax" : 1,
-							"parameter_shortname" : "map1",
+							"parameter_shortname" : "map3",
 							"parameter_type" : 2
 						}
 
 					}
 ,
 					"text" : "map3",
-					"texton" : "map3",
-					"varname" : "map1[3]"
+					"texton" : "3",
+					"varname" : "map3"
 				}
 
 			}
@@ -2213,17 +2213,17 @@
 						"valueof" : 						{
 							"parameter_enum" : [ "val1", "val2" ],
 							"parameter_linknames" : 1,
-							"parameter_longname" : "map1[1]",
+							"parameter_longname" : "map2",
 							"parameter_mmax" : 1,
-							"parameter_shortname" : "map1",
+							"parameter_shortname" : "map2",
 							"parameter_type" : 2
 						}
 
 					}
 ,
 					"text" : "map2",
-					"texton" : "map2",
-					"varname" : "map1[1]"
+					"texton" : "2",
+					"varname" : "map2"
 				}
 
 			}
@@ -2785,7 +2785,7 @@
 					}
 ,
 					"text" : "map1",
-					"texton" : "map1",
+					"texton" : "1",
 					"varname" : "map1"
 				}
 
@@ -3573,14 +3573,14 @@
 			"obj-14" : [ "map1", "map1", 0 ],
 			"obj-16" : [ "toggle_1", "toggle_1", 0 ],
 			"obj-32" : [ "live.numbox", "live.numbox", 0 ],
-			"obj-50" : [ "map1[1]", "map1", 0 ],
-			"obj-52" : [ "map1[2]", "map1", 0 ],
-			"obj-54" : [ "map1[3]", "map1", 0 ],
-			"obj-56" : [ "map1[4]", "map1", 0 ],
-			"obj-58" : [ "map1[5]", "map1", 0 ],
+			"obj-50" : [ "map2", "map2", 0 ],
+			"obj-52" : [ "map4", "map4", 0 ],
+			"obj-54" : [ "map3", "map3", 0 ],
+			"obj-56" : [ "map8", "map8", 0 ],
+			"obj-58" : [ "map7", "map7", 0 ],
 			"obj-6" : [ "stored_button", "stored_button", 0 ],
-			"obj-60" : [ "map1[6]", "map1", 0 ],
-			"obj-62" : [ "map1[7]", "map1", 0 ],
+			"obj-60" : [ "map6", "map6", 0 ],
+			"obj-62" : [ "map5", "map5", 0 ],
 			"obj-64" : [ "toggle_2", "toggle_2", 0 ],
 			"obj-65" : [ "CCout_1[1]", "CCout_1", 0 ],
 			"obj-67" : [ "toggle_4", "toggle_4", 0 ],
