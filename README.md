@@ -4,9 +4,11 @@ This patch is part of the [_META_ Environment](https://bitbucket.org/AdrianArtac
 
 # META_switch
 
-This README would normally document whatever steps are necessary to get your application up and running. 
+This device switches between up to 8 different toggles (activating one, will deactivate the others).
 
-![META:timer](./images/gui.png)
+![dfbfs](/Users/artacho/Work/Projects/[META]/META4Live/meta_switch/images/gui.png)
+
+
 
 ### 
 
