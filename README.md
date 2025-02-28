@@ -6,9 +6,7 @@ This patch is part of the [_META_ Environment](https://bitbucket.org/AdrianArtac
 
 This device switches between up to 8 different toggles (activating one, will deactivate the others).
 
-![dfbfs](/Users/artacho/Work/Projects/[META]/META4Live/meta_switch/images/gui.png)
-
-
+![dfbfs](img/gui.png)
 
 ### 
 
