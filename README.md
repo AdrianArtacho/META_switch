@@ -1,7 +1,3 @@
-This patch is part of the [_META_ Environment](https://bitbucket.org/AdrianArtacho/meta4live/src/master/).
-
-![META_logo](https://bitbucket.org/AdrianArtacho/meta4live/raw/HEAD/META_logo.png)
-
 # META_switch
 
 Select one of **1–32 mappings** and deactivate the others. The **Mappings** number box controls both routing and the number of visible columns; **8** is the default. Settings occupy the left panel, with mapping columns to the right. The device width follows the count.
